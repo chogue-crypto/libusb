@@ -74,3 +74,5 @@ xcuserdata
 build/
 tags
 cscope.out
+
+.fake
